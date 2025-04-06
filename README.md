@@ -1,2 +1,7 @@
-# subject-learning
-A template repo for creating learning repos.
+# Learning Subject
+This is a repo that I created first time diving into Subject.
+
+[ ] Do something.\
+[ ] Do something.\
+[ ] Do something.\
+[ ] Do something.
